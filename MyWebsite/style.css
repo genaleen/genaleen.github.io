@@ -266,6 +266,7 @@ footer ul li a {
 .about {
   width: 100%;
   height: 90vh;
+  margin-top: 100PX;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -296,7 +297,7 @@ footer ul li a {
 
 .about-text {
   width: 1480px;
-  height: 640px;
+  height: 650px;
   max-width: 100%;
   padding: 0 10;
 }
@@ -680,7 +681,7 @@ color: #D4AF37;
   background-color: #000;
   color: #fff;
   bottom: 0;
-  opacity: 0.5;
+  opacity: 0.85;
 }
 
 .travel-item img {
