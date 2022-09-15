@@ -1,0 +1,33 @@
+
+body{
+  background-color: black;
+}
+
+.kilig img{
+				width: 200px;
+}
+
+.kilig{
+				display: flex;
+				justify-content: center;
+				align-items: center;
+				flex-direction: column;
+				gap:4em;
+}
+.ay{
+  font-size: 25px;
+  margin-bottom: -42px;
+  font-weight: bold;
+  color: #C396C2;
+}
+
+.fff{
+  display: flex;
+  margin-top: 50px;
+  color: white;
+	justify-content: center;
+	align-items: center;
+  font-weight: bold;
+  font-family: Poppins;
+  font-style: normal;
+}
