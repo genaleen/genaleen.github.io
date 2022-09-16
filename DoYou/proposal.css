@@ -37,7 +37,7 @@ body{
       border-radius: 25px;
 	    border: 2px solid #C69EC6;
         background-image: linear-gradient(to right top, #d78fe5, #daaef2, #e1cafa, #ede5fe, #ffffff);
-      font-size: 20px;
+      font-size: 30px;
 }
 .group1 button:hover{
 				background: #DB7093;
@@ -53,7 +53,7 @@ body{
 				flex-direction: column;
 				border-radius: 5px;
 			  z-index: 5555555;
-        font-size: 35px;
+        font-size: 55px;
 				padding-top: 1em;
 				padding-bottom: 1em;
 				text-align: center;
@@ -67,7 +67,7 @@ body{
 				display: flex;
 				justify-content:center;
 				align-items: center;
-				gap: 2em;
+				gap: 1em;
 }
 
 #btn1{
@@ -75,7 +75,7 @@ body{
 				padding-right: 30px;
 				padding-top: 5px ;
 				padding-bottom:5px ;
-        font-size: 20px;
+        font-size: 30px;
 				font-weight: bold;
         border-radius: 25px;
     background-image: linear-gradient(to right top, #d78fe5, #daaef2, #e1cafa, #ede5fe, #ffffff);
@@ -93,7 +93,7 @@ body{
 #btn2{
 				padding-left: 30px;
 				padding-right: 30px;
-        font-size: 20px;
+        font-size: 30px;
 				padding-top: 5px ;
 				padding-bottom:5px ;
 				font-weight: bold;
@@ -106,7 +106,7 @@ body{
 }
 
 .crush{
-				font-size: 60px;
+				font-size: 55px;
 				margin-bottom: 2em;
 				font-weight: bold;
 				color: #C396C2;
@@ -241,6 +241,6 @@ display: flex;
 				justify-content: center;
 				align-items: center;
         font-size: 20px;
-        color: white
+        color: #E16A8C;
 
 }

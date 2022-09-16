@@ -12,19 +12,32 @@ body{
 				justify-content: center;
 				align-items: center;
 				flex-direction: column;
-				gap:4em;
+				gap:3em;
 }
+
+
 .ay{
-  font-size: 25px;
-  margin-bottom: -42px;
+  font-size: 35px;
+  margin-bottom: -22px;
+  font-weight: bold;
+  color: #DA4973;
+}
+
+.ays{
+  font-size: 35px;
+  margin-top: 12px;
   font-weight: bold;
   color: #C396C2;
+}
+
+.tenor-gif-embed{
+  background-color: #C396C2;
 }
 
 .fff{
   display: flex;
   margin-top: 50px;
-  color: white;
+  color: #E16A8C;
 	justify-content: center;
 	align-items: center;
   font-weight: bold;
